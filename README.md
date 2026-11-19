@@ -19,6 +19,8 @@ Completed learning project retained as part of my QA automation portfolio.
 
 Example applications include a **fictional multilingual study app**, a **synthetic gift-exchange demo** and a **local dashboard** with month filters. These are learning scenarios; no private sessions, user information or hidden assessment content is published.
 
+**Applied browser QA case:** [Caribbean Merchant — offline strategy game](https://github.com/KonstantinOreshnikov/KonstantinOreshnikov/tree/main/projects/caribbean-merchant) ([practical test scenarios](docs/caribbean-merchant-browser-testing.md)). The original v1.0 release report records 26 local scenarios; the older educational code here is not claimed to have run them.
+
 For the full test design and Page Object track, use [Quality Engineering Lab](https://github.com/KonstantinOreshnikov/web-testing-page-object). Combine it with [Git workflow](https://github.com/KonstantinOreshnikov/git-instruction-workshop) for reviewable fixes and test evidence.
 
 **RU:** Selenium/Playwright помогают тестировать интерфейс, формы, переключение языка, фильтры и поведение при ошибках. Фактические browser E2E по старому коду не заявляются.
